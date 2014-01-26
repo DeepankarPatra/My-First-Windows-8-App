@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HPELITEBOOK</Machine>
+    <WindowsUser>doslab</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>5BDA68BA2900616F67520BD4E90CECF774A15B567ADFE067CFC83655FFACB266</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>09fd012a-b65d-4342-aefb-8bf83c865e27_1.0.0.0_neutral__3fw3s2gnb0gkr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>09fd012a-b65d-4342-aefb-8bf83c865e27_3fw3s2gnb0gkr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>09fd012a-b65d-4342-aefb-8bf83c865e27</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=doslab</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-25T13:07:50.536</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\bin\Debug\SmartToDoCS.exe">
+      <PackagePath>SmartToDoCS.exe</PackagePath>
+      <Modified>2014-01-25T13:09:26.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\bin\Debug\SmartToDoCS.pdb">
+      <PackagePath>SmartToDoCS.pdb</PackagePath>
+      <Modified>2014-01-25T13:09:26.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-01-25T12:30:34.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-01-25T12:30:08.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\bin\Debug\ThirdPage.xaml">
+      <PackagePath>ThirdPage.xaml</PackagePath>
+      <Modified>2014-01-25T13:03:04.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\bin\Debug\SecondPage.xaml">
+      <PackagePath>SecondPage.xaml</PackagePath>
+      <Modified>2014-01-25T13:01:26.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\bin\Debug\FirstPage.xaml">
+      <PackagePath>FirstPage.xaml</PackagePath>
+      <Modified>2014-01-25T12:51:21.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-01-25T12:45:22.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\doslab\documents\visual studio 2012\Projects\SmartToDoCS\SmartToDoCS\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-01-25T13:07:50.385</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

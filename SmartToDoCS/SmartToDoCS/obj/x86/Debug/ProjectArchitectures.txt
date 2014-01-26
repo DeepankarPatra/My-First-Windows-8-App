@@ -1,0 +1,1 @@
+C:\Users\doslab\Documents\Visual Studio 2012\Projects\SmartToDoCS\SmartToDoCS\SmartToDoCS.csproj;x86
